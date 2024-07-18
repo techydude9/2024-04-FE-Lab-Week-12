@@ -1,0 +1,34 @@
+{
+  "studentRoster": [
+    {
+      "fullName": "Ora Thiel",
+      "researchAssignment": "bear",
+      "id": "1"
+    },
+    {
+      "fullName": "Tabitha Brown",
+      "researchAssignment": "rabbit",
+      "id": "2"
+    },
+    {
+      "fullName": "Patti Fritsch",
+      "researchAssignment": "fish",
+      "id": "3"
+    },
+    {
+      "fullName": "Tammy Kunde",
+      "researchAssignment": "bird",
+      "id": "5"
+    },
+    {
+      "fullName": "Deb Ruzga",
+      "researchAssignment": "Rhino",
+      "id": "6"
+    },
+    {
+      "id": "552c",
+      "fullName": "Happy Gilmore",
+      "researchAssignment": "gophers"
+    }
+  ]
+}
